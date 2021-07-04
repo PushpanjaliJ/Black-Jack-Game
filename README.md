@@ -14,6 +14,7 @@ REQUIREMENTS: A deck of cards.
 2. The 2 cards in Players hand are shown up. But, the dealer does show only one.
 3. If the player total cards value < 21, the player hits from the deck.
 4. After the player's turn, if the player has less than 21, then dealer hits until they either beat or busts.
+5. If the player wins, the bet amount is added to his total. Or else, gets deducted from his total.
 
 THE GAME ENDS WHEN, 
   i) The player busts.
