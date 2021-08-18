@@ -228,7 +228,7 @@ while True:
     print("\n Player's winnings stand at ", player_chips.total)
 
     # ask the player if he want to replay
-    new_game = input('Do you want to playe again? Y or N: ')
+    new_game = input('Do you want to play again? Y or N: ')
     if new_game[0].lower() == 'y':
         playing = True
         continue
